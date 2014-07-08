@@ -1,6 +1,16 @@
 # readable-id
 
-Generate (mostly) human readable, Heroku-style ids. Here is, literally, the entire source code:
+Generate (mostly) human readable, Heroku-style ids.
+
+## Usage
+
+```js
+rid = require('readable-id')
+rid()
+// red-voice-ekDJ84G-We
+```
+
+Here is, literally, the entire source code:
 
 ```js
 shortid = require('shortid')
