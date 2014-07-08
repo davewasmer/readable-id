@@ -1,0 +1,8 @@
+{
+  "name": "readable-id",
+  "version": "0.0.1",
+  "description": "Generates unique, Heroku-style human readable IDs",
+  "main": "index.js",
+  "author": "Dave Wasmer",
+  "license": "MIT"
+}
