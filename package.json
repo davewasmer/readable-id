@@ -2,6 +2,31 @@
   "name": "readable-id",
   "version": "0.0.1",
   "description": "Generates unique, Heroku-style human readable IDs",
+  "keywords": [
+    "short",
+    "tiny",
+    "id",
+    "uuid",
+    "heroku",
+    "shortid",
+    "tinyid",
+    "readable",
+    "unique"
+  ],
+  "homepage": "http://github.com/davewasmer/readable-id",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/davewasmer/readable-id"
+  },
+  "bugs": {
+    "url": "http://github.com/davewasmer/readable-id/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/davewasmer/readable-id/master/LICENSE.md"
+    }
+  ],
   "main": "index.js",
   "author": "Dave Wasmer",
   "license": "MIT"
