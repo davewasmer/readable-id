@@ -1,6 +1,6 @@
 {
   "name": "readable-id",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generates unique, Heroku-style human readable IDs",
   "keywords": [
     "short",
@@ -29,5 +29,8 @@
   ],
   "main": "index.js",
   "author": "Dave Wasmer",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "shortid": "^2.1.3"
+  }
 }
