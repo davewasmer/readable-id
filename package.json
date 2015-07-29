@@ -1,6 +1,6 @@
 {
   "name": "readable-id",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generates unique, Heroku-style human readable IDs",
   "keywords": [
     "short",
