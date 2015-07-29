@@ -6,7 +6,7 @@ nouns = require('./nouns')
 
 module.exports = function() {
   id = shortid.generate()
-  adjectiveIndex = Math.round(Math.random() * adjectives.length)
-  nounIndex = Math.round(Math.random() * nouns.length)
+  adjectiveIndex = Math.floor(Math.random() * adjectives.length)
+  nounIndex = Math.floor(Math.random() * nouns.length)
   return adjectives[adjectiveIndex] + "-" + nouns[nounIndex] + "-" + id
 }
