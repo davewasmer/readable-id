@@ -31,6 +31,6 @@
   "author": "Dave Wasmer",
   "license": "MIT",
   "dependencies": {
-    "shortid": "^2.1.3"
+    "nanoid": "^1.0.1"
   }
 }
