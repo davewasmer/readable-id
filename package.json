@@ -2,6 +2,9 @@
   "name": "readable-id",
   "version": "1.0.0",
   "description": "Generates unique, Heroku-style human readable IDs",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
   "keywords": [
     "short",
     "tiny",
@@ -31,6 +34,9 @@
   "author": "Dave Wasmer",
   "license": "MIT",
   "dependencies": {
-    "nanoid": "^1.0.1"
+    "nanoid": "^1.0.4"
+  },
+  "devDependencies": {
+    "jest": "^23.1.0"
   }
 }

@@ -1,4 +1,4 @@
-[
+module.exports = [
   "autumn",
   "hidden",
   "bitter",
